@@ -1,0 +1,11 @@
+.venv/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+ECHO is on.
+*.h5
+*.sav
+ECHO is on.
+.DS_Store
+Thumbs.db
